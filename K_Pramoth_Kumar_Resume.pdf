@@ -1,0 +1,22 @@
+{
+  "name": "K. Pramoth Kumar",
+  "role": "MCA Student · Full Stack Developer · Frontend Engineer",
+  "email": "pramothkumar.dev@gmail.com",
+  "phone": "+91 98765 43210",
+  "location": "Trichy, Tamil Nadu, India",
+  "skills": ["React", "JavaScript", "HTML", "CSS", "Tailwind", "Node.js", "Express", "MySQL", "MongoDB", "Java", "Python", "Git", "Docker", "VS Code"],
+  "projects": [
+    "Pawn Shop Management System",
+    "Prescription-Based Medicine Supply (Gemini OCR)",
+    "Planetary System Viewer (Three.js)"
+  ],
+  "education": [
+    { "degree": "MCA", "college": "Bishop Heber College, Trichy" },
+    { "degree": "BSc Computer Science", "college": "St. Joseph's College, Trichy" }
+  ],
+  "achievements": [
+    "Paper Presentation — 2nd Prize",
+    "Tech Rise — Web Development Symposium",
+    "TechX — Coding & Innovation Fest"
+  ]
+}
